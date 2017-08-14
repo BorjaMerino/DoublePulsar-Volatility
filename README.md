@@ -7,6 +7,6 @@ To run the plugin be sure to have the following dependencies:
 
     construct:  pip install construct==2.5.5-reupload
     pdbparse:   pip install pdbparse
-    pefile:	pip install pefile
+    pefile:	    pip install pefile
     requests:	pip install requests
     cabextract:	apt-get install cabextract
