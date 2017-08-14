@@ -37,3 +37,5 @@ Ptr                Module       Section
 0xfffffa800074c060 UNKNOWN                  
 0xfffff8800388fb20 srv.sys      PAGE        
 0xfffff88003895830 srv.sys      PAGE 
+```
+More info: http://www.shelliscoming.com/2017/08/doublepulsar-smb-implant-detection-from.html
